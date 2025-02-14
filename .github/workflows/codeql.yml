@@ -39,8 +39,8 @@ jobs:
       actions: read
       contents: read
 
-    strategy:
-      fail-fast: false
+     'build-mode'
+  
       matrix:
             
         'python',
